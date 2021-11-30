@@ -762,7 +762,7 @@ void close(){
     printf("\n\t\t\t\t        ***********************************************\n");
     
     gotoxy(30,20);
-    printf("Burak Kececi B1905.010047 Computer Engineering 1.Year Final Project\n\n");
+    printf("Burak Kececi Computer Engineering 1.Year Final Project\n\n");
 }
 void mainMenu(){
 	
